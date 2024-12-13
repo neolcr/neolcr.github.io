@@ -5,8 +5,6 @@ date: 2024-12-13
 categories: "iciblog"
 ---
 
-## Contenido
+Un coche
 
-Un camaleon
-
-![Camaleon]({{site.baseurl}}/assets/images/camaleon.jpg)
+![Coche]({{site.baseurl}}/assets/images/coche.jpg)

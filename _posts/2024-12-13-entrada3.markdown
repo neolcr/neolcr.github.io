@@ -5,8 +5,5 @@ date: 2024-12-13
 categories: "iciblog"
 ---
 
-## Contenido
 
-Un camaleon
-
-![Camaleon]({{site.baseurl}}/assets/images/camaleon.jpg)
+![Agua]({{site.baseurl}}/assets/images/agua.jpg)

@@ -1,0 +1,28 @@
+---
+layout: home
+title: Home
+---
+
+<style>
+    body {
+      position: relative;
+    }
+
+    body::before {
+      content: ''; /* Creates the pseudo-element */
+      position: fixed; /* Covers the entire page */
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image: url('/assets/images/puppy1.jpg'); /* Background image */
+      background-size: cover; /* Covers the entire viewport */
+      background-repeat: no-repeat; /* Prevents tiling */
+      background-position: center; /* Centers the image */
+      opacity: 0.4; /* Makes the background image almost transparent */
+      z-index: -1; /* Sends it behind the content */
+    }
+</style>
+
+
+
