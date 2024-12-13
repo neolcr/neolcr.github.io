@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Entrada 1"
+date: 2024-12-13
+categories: "iciblog"
+---
+
+## Contenido
+
+Un camaleon
+
+![Camaleon]({{site.baseurl}}/assets/images/camaleon.jpg)
+
